@@ -1,2 +1,2 @@
-Trying to make a eqilinox in processing 
-till now made only the terrain and water
+Trying to make a eqilinox in processing <br>
+Progress till now: implemented only the terrain and water
